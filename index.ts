@@ -30,9 +30,9 @@ export const firstBucketName = firstBucket.id;
 export const firstBucketInfo = firstBucket.bucket;
 export const firstBucketArn = firstBucket.arn;
 
-// export const secondBucketName = secondBucket.id;
-// export const secondBucketInfo = secondBucket.bucket;
-// export const secondBucketArn = secondBucket.arn;
+export const secondBucketName = secondBucket.id;
+export const secondBucketInfo = secondBucket.bucket;
+export const secondBucketArn = secondBucket.arn;
 
 export const ecrName = ecr.name;
 export const ecrRepositoryUrl = ecr.repositoryUrl;
